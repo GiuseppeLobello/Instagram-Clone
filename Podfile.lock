@@ -1,0 +1,28 @@
+PODS:
+  - Spring (1.0.6)
+  - TRMosaicLayout (1.0.0)
+
+DEPENDENCIES:
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+  - TRMosaicLayout
+
+SPEC REPOS:
+  trunk:
+    - TRMosaicLayout
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 50d92a5b9e08848387ae95bf44c6ad20834f7083
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+  TRMosaicLayout: 1875505c48dd2877afd69a8bea7b4c1c63afa5b5
+
+PODFILE CHECKSUM: 39a75585fbe0aa5b048d79aa988a1b858f1b469e
+
+COCOAPODS: 1.11.2
